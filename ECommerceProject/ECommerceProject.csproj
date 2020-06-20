@@ -141,6 +141,15 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Template\Cart.html" />
+    <Content Include="Template\Content\bootstrap-theme.css" />
+    <Content Include="Template\Content\bootstrap-theme.min.css" />
+    <Content Include="Template\Content\bootstrap.css" />
+    <Content Include="Template\Content\bootstrap.min.css" />
+    <Content Include="Template\Content\font-awesome.css" />
+    <Content Include="Template\Content\font-awesome.min.css" />
+    <Content Include="Template\Content\site.css" />
+    <Content Include="Template\fonts\fontawesome-webfont.svg" />
+    <Content Include="Template\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Template\ForgotPassword.html" />
     <Content Include="Template\index.html" />
     <Content Include="Template\Login.html" />
@@ -149,6 +158,11 @@
     <Content Include="Template\MyProfile.html" />
     <Content Include="Template\Product.html" />
     <Content Include="Template\Register.html" />
+    <Content Include="Template\Scripts\bootstrap.js" />
+    <Content Include="Template\Scripts\bootstrap.min.js" />
+    <None Include="Template\Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Template\Scripts\jquery-1.9.1.js" />
+    <Content Include="Template\Scripts\jquery-1.9.1.min.js" />
     <Content Include="Template\template.html" />
     <Content Include="Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
@@ -156,6 +170,20 @@
     <Content Include="Views\i\Index.cshtml" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+    <Content Include="Template\fonts\fontawesome-webfont.eot" />
+    <Content Include="Template\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Template\fonts\fontawesome-webfont.woff" />
+    <Content Include="Template\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Template\fonts\FontAwesome.otf" />
+    <Content Include="Template\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Template\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Template\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Template\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Template\Content\bootstrap-theme.css.map" />
+    <Content Include="Template\Content\bootstrap-theme.min.css.map" />
+    <Content Include="Template\Content\bootstrap.css.map" />
+    <Content Include="Template\Content\bootstrap.min.css.map" />
+    <Content Include="Template\Scripts\jquery-1.9.1.min.map" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
