@@ -19,8 +19,11 @@ namespace ECommerceProject.Controllers
 
         public ActionResult Index()
         {
-            
-            return View();
+            var viewModel = new Models.i.indexModel
+            {
+                Products = context.Products.ToList()
+            };
+            return View(viewModel);
         }
     }
 }
