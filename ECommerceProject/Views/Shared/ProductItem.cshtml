@@ -1,8 +1,8 @@
 ﻿@model ECommerceProject.DB.Products
 
 @{
-    //TODO: Buraya Daha sonra bakmam lazım  kontrolde bir sıkıntı var 
-    if (!string.IsNullOrEmpty(Model.ProductImageName))
+   
+    if (string.IsNullOrEmpty(Model.ProductImageName))
     {
         Model.ProductImageName ="images/300x150.png";
     }
